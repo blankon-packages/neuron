@@ -1,0 +1,13 @@
+Source: neuron
+Section: science
+Priority: extra
+Maintainer: BlankOn Developers <BlankOn-Dev@googlegroups.com>
+Standards-Version: 3.9.3
+Build-Depends: cdbs, debhelper (>= 8.0.0)
+
+Package: neuron
+Architecture: all
+Depends: maleo
+Description:  Neuron
+ An HTML5 remake of the original  Neuron - expanded for modern browsing.
+ 

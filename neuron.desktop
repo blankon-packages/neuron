@@ -1,0 +1,15 @@
+
+[Desktop Entry]
+Version=1.0
+Name=Neuron
+Comment=Neuron
+GenericName=Nauron
+Exec=maleo /usr/share/neuron
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=gnome-util
+Categories=Education;
+StartupWMClass=Maleo
+StartupNotify=true
+

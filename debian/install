@@ -1,0 +1,4 @@
+*.html /usr/share/neuron
+config.xml /usr/share/neuron
+*.desktop /usr/share/applications
+
